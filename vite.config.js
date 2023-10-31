@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/TaskFusion-frontend/',
+  base: '/react-node-fs78-Tarasdeveloper/',
 });
