@@ -10,7 +10,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/TaskFusion-frontend">
+      <BrowserRouter basename="/react-node-fs78-Tarasdeveloper">
         <PersistGate persistor={persistor}>
           <App />
         </PersistGate>
